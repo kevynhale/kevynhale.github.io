@@ -35,6 +35,7 @@ body {
 
 .container img {
     max-width: 100%;
+    width: auto;
 }
 
 @media screen and (max-width: 1000px) {
